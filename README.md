@@ -14,14 +14,6 @@ Instructions
 3.	Review the grading criteria for the group submissions. 
 4.	See the course schedule and/or Brightspace for due dates.
 
-Submission 
-Complete the partial class diagram provided in Figure 1 below so that it accurately represents the design of the program.
-1.	Create the code for a program that meets the requirements described below.
-2.	Test your code against the expected output provided.
-3.	Check your program against the detailed marking criteria at the end of this document.
-4.	Submit the following to Brightspace as a group (Only one copy is required per group, and any of the group members may submit):
-•	GitHub URL for your program code (invite your instructor to be a member of the project repository)
-•	A copy of the test output (.txt file)
 
 Appliance Details
 Data Formatting
