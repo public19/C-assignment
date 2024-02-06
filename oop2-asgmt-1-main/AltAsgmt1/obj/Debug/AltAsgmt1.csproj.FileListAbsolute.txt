@@ -1,0 +1,14 @@
+C:\Users\bsimm\Desktop\OOP2 VS\AltAsgmt1\bin\Debug\AltAsgmt1.exe.config
+C:\Users\bsimm\Desktop\OOP2 VS\AltAsgmt1\bin\Debug\AltAsgmt1.exe
+C:\Users\bsimm\Desktop\OOP2 VS\AltAsgmt1\bin\Debug\AltAsgmt1.pdb
+C:\Users\bsimm\Desktop\OOP2 VS\AltAsgmt1\obj\Debug\AltAsgmt1.csproj.AssemblyReference.cache
+C:\Users\bsimm\Desktop\OOP2 VS\AltAsgmt1\obj\Debug\AltAsgmt1.csproj.CoreCompileInputs.cache
+C:\Users\bsimm\Desktop\OOP2 VS\AltAsgmt1\obj\Debug\AltAsgmt1.exe
+C:\Users\bsimm\Desktop\OOP2 VS\AltAsgmt1\obj\Debug\AltAsgmt1.pdb
+C:\Users\one39\OneDrive\Desktop\oop2-asgmt-1-main\AltAsgmt1\bin\Debug\AltAsgmt1.exe.config
+C:\Users\one39\OneDrive\Desktop\oop2-asgmt-1-main\AltAsgmt1\bin\Debug\AltAsgmt1.exe
+C:\Users\one39\OneDrive\Desktop\oop2-asgmt-1-main\AltAsgmt1\bin\Debug\AltAsgmt1.pdb
+C:\Users\one39\OneDrive\Desktop\oop2-asgmt-1-main\AltAsgmt1\obj\Debug\AltAsgmt1.csproj.AssemblyReference.cache
+C:\Users\one39\OneDrive\Desktop\oop2-asgmt-1-main\AltAsgmt1\obj\Debug\AltAsgmt1.csproj.CoreCompileInputs.cache
+C:\Users\one39\OneDrive\Desktop\oop2-asgmt-1-main\AltAsgmt1\obj\Debug\AltAsgmt1.exe
+C:\Users\one39\OneDrive\Desktop\oop2-asgmt-1-main\AltAsgmt1\obj\Debug\AltAsgmt1.pdb
